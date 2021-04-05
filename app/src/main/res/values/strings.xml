@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ThirdTaskWithCAT</string>
+    <string name="first_qn"> What is x value(int x = 10*2 ) ? </string>
+    <string name="first_qn_hint"> Your Answer</string>
+    <string name="second_qn"> how many surahs in quran ?</string>
+    <string name="rad_1">114</string>
+    <string name="rad_2">112</string>
+    <string name="rad_3">120</string>
+    <string name="fourth_qn">This logo refers to ? </string>
+    <string name="rad_a">Ford</string>
+    <string name="rad_b">Tesla</string>
+    <string name="rad_c">Opel</string>
+    <string name="btn">Submit</string>
+    <string name="third_qn">who is the real creator of Google ?</string>
+    <string name="chBo_1">	Larry Page </string>
+    <string name="chBo_2">	Mark Zuckerberg </string>
+    <string name="chBo_3">	Elon Musk </string>
+    <string name="chBo_4">	Sergey Brin </string>
+
+</resources>
